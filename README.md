@@ -2,6 +2,8 @@
 
 ### Github Stats
 <div>
+
+ ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=BrandonCope.visitor-badge)
 <img src="https://github-readme-stats.vercel.app/api?username=BrandonCope">
 </div>
 
