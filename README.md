@@ -3,7 +3,8 @@
 ### Github Stats
 <div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=BrandonCope&count_private=true&show_icons=true&theme=gotham">
+<img src="https://github-readme-stats.vercel.app/api?username=BrandonCope&count_private=true&show_icons=true&theme=gotham" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=BrandonCope&show_icons=true&locale=en&layout=compact&theme=gotham"/>
 </div>
 
 - 📫 How to reach me: bcopeland97@gmail.com
