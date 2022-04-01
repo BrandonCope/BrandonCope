@@ -2,7 +2,7 @@
 
 ### Github Stats
 <div>
-<img src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrandonCope)](https://github.com/anuraghazra/github-readme-stats)">
+<img src="https://github-readme-stats.vercel.app/api?username=BrandonCope">
 </div>
 
 - 📫 How to reach me: bcopeland97@gmail.com
