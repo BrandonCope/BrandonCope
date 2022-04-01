@@ -3,7 +3,7 @@
 ### Github Stats
 <div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=BrandonCope_private=true&show_icons=true&theme=synthwave">
+<img src="https://github-readme-stats.vercel.app/api?username=BrandonCope&count_private=true&show_icons=true&theme=synthwave">
 </div>
 
 - 📫 How to reach me: bcopeland97@gmail.com
