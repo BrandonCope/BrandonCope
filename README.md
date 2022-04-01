@@ -1,6 +1,7 @@
-### 👋 Welcome to my GitHub!!!!
-
+<div>
+<h1> 👋 Welcome to my GitHub!!!! </h1>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=BrandonCope)
+</div>
 <div>
     <a href="https://www.linkedin.com/in/brandoncopeland97/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
