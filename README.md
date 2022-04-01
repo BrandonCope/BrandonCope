@@ -1,10 +1,15 @@
-### 👋 Welcome to the jungle!!!!
+### 👋 Welcome to my GitHub!!!!
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=BrandonCope)
 <div>
     <a href="https://www.linkedin.com/in/brandoncopeland97/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
+    </a>
+ <a href="https://angel.co/u/b-cope">
+   <img src=https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black>
+ </img>
+ </a>
 </div>
 
 ### Github Stats
