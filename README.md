@@ -1,6 +1,5 @@
 <div>
 <h1> 👋 Welcome to my GitHub!!!! </h1>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=BrandonCope)
 </div>
 <div>
     <a href="https://www.linkedin.com/in/brandoncopeland97/">
@@ -12,6 +11,8 @@
  </img>
  </a>
 </div>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=BrandonCope)
 
 ### Github Stats
 <div>
