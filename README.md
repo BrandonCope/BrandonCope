@@ -1,5 +1,6 @@
 <div>
 <h1> 👋 Welcome to my GitHub!!!! </h1>
+    <p>Fullstack Software Engineer | Check out the pinned repositories below, to see my applications.</p>
 </div>
 <div>
     <a href="https://www.linkedin.com/in/brandoncopeland97/" target="https://www.linkedin.com/in/brandoncopeland97/" >
