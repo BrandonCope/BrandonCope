@@ -25,6 +25,7 @@
 </div>
 
 - 📫 How to reach me: bcopeland97@gmail.com
+- 🌱 I’m currently learning ... Java
 <!--
 **BrandonCope/BrandonCope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
